@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Erick Villarreal 👋</h1>
 <p align="center">
   <a href="https://github.com/ErickVillarre">
-    <img src="./HOLA(1).GIF" width="250"/>
+    <img src="./hola.gif" width="250"/>
   </a>
 </p>
 
