@@ -28,4 +28,12 @@
 
 - 📧 ericalmonacidvilla@gmail.com
 
+---
+
+<p align="center">
+  <a href="https://github.com/ErickVillarre">
+    <img src="./HOLA(1).GIF" width="250"/>
+  </a>
+</p>
+
 
