@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Erick Villarreal 👋</h1>
 
-<!--
-**ErickVillarre/ErickVillarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Desarrollador en formación | React Native | IA</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 🎓 Estudiante de Ingeniería De Sistemas e Informatica UTP
+- 📱 Desarrollo apps con React Native (Expo)
+- 🤖 Interesado en Inteligencia Artificial
+- 🔧 Me gusta crear soluciones reales
+
+---
+
+## 🛠️ Tecnologías
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-black?style=for-the-badge&logo=expo)
+
+---
+
+## 📊 GitHub Stats
+
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickVillarre&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contacto
+
+- 📧 ericalmonacidvilla@gmail.com
+
+
