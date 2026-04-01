@@ -1,4 +1,9 @@
 <h1 align="center">¡Hola! Soy Erick Villarreal 👋</h1>
+<p align="center">
+  <a href="https://github.com/ErickVillarre">
+    <img src="./HOLA(1).GIF" width="250"/>
+  </a>
+</p>
 
 <h3 align="center">💻 Desarrollador en formación | React Native | IA</h3>
 
@@ -27,13 +32,4 @@
 ## 📫 Contacto
 
 - 📧 ericalmonacidvilla@gmail.com
-
----
-
-<p align="center">
-  <a href="https://github.com/ErickVillarre">
-    <img src="./HOLA(1).GIF" width="250"/>
-  </a>
-</p>
-
 
