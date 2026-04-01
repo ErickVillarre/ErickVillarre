@@ -22,11 +22,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickVillarre&show_icons=true&theme=dark)
-
----
 
 ## 📫 Contacto
 
